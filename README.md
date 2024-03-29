@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">Chinese Skins Port</h1>
-![GitHub all releases](https://img.shields.io/github/downloads/TheMegax/ChineseSkinPort/total)
+![GitHub all releases](https://img.shields.io/github/downloads/TheMegax/BTD6-Chinese-Skins-Port/total)
 
 Adds the Chinese exclusive skins to the international version of BTD6.
 Includes a never released skin of cat Sauda found in the game files!

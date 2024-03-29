@@ -10,9 +10,6 @@
         <DebugType>embedded</DebugType>
     </PropertyGroup>
     <ItemGroup>
-        <Content Include=".github\workflows\build.yml" />
-    </ItemGroup>
-    <ItemGroup>
       <Folder Include="Audio\Psi\" />
     </ItemGroup>
 

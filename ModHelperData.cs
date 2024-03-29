@@ -9,5 +9,5 @@ public static class ModHelperData
     public const string Description = "Adds the skins from the chinese edition of the game.";
 
     public const string RepoOwner = "TheMegax";
-    public const string RepoName = "BTD6ChineseSkinsPort";
+    public const string RepoName = "BTD6-Chinese-Skins-Port";
 }
