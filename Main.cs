@@ -666,10 +666,10 @@ public class Main : BloonsTD6Mod
             "passionately and loyally guarding his home.");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearQuincySkinName", 
-            "Air General Quincy Skin");
+            "General Quincy Skin");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearQuincySkinNameFull", 
-            "Air General Quincy");
+            "General Quincy");
         
         // Psi
         LocalizationManager.Instance.defaultTable.Add("NewYearPsiSkinDescription", 
@@ -677,10 +677,10 @@ public class Main : BloonsTD6Mod
             "and can exert amazing combat effectiveness on the battlefield.");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearPsiSkinName", 
-            "Psi Monk Skin");
+            "Qinglong Psi Skin");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearPsiSkinNameFull", 
-            "Monk Psi");
+            "Qinglong Psi");
 
         
         // Sauda
@@ -688,10 +688,10 @@ public class Main : BloonsTD6Mod
             "Don’t be fooled by her cute appearance, Sauda is a superpowered catwoman!");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearSaudaSkinName", 
-            "Sauda Cat Skin");
+            "Sauda Catwoman Skin");
         
         LocalizationManager.Instance.defaultTable.Add("NewYearSaudaSkinNameFull", 
-            "Cat Sauda");
+            "Catwoman Sauda");
 
         /*foreach (var skin in GameData.Instance.skinsData.SkinList.items)
         {
