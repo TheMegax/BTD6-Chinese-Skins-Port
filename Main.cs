@@ -7,9 +7,9 @@ using Il2CppAssets.Scripts.Data.Skins;
 using Il2CppAssets.Scripts.Models;
 using Il2CppAssets.Scripts.Unity;
 using Il2CppAssets.Scripts.Unity.Display.Animation;
-using Il2CppAssets.Scripts.Utils;
 using Il2CppInterop.Runtime.InteropTypes.Arrays;
 using Il2CppNinjaKiwi.Common;
+using Il2CppNinjaKiwi.Common.ResourceUtils;
 using Il2CppSystem.Collections.Generic;
 using UnityEngine;
 
@@ -715,7 +715,7 @@ public class Main : BloonsTD6Mod
         Game.Player.UnlockHeroSkin("Psi", "New Year Psi");
         Game.Player.UnlockHeroSkin("Sauda", "New Year Sauda");
     }
-    
+
     public static Object? GetBundledAsset(string name)
     {
         var bundle = ModContent.GetBundle(ModHelper.GetMod("ChineseSkinsPort"), "chineseport");
